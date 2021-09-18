@@ -142,6 +142,10 @@ footer{
 	section{
 		width: 320px;
 	}
+	
+	article:hover{
+		width: 280px
+	}
 
 	article{
 		width: 280px;
